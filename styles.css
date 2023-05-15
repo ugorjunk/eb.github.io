@@ -1,0 +1,52 @@
+       body {
+            background-image: url(kepek/hatter.png);
+            background-size: cover;
+            background-attachment: fixed;
+            
+            
+        }
+        h1{
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(0, 178, 169);
+            text-align: center;
+            margin-left: 170px;
+        }
+        h3{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 170px;
+            color:rgb(255,0,144);
+            text-align: center;
+            
+        }
+        dt{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: x-large;
+            color: rgb(0, 178, 169);
+            margin-left: 140px;
+        }
+        dd{
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(255,0,144);
+            margin-left: 170px;
+        }
+        dl{
+            margin-left: 100px;
+        }
+        
+h1#valogatott{
+font-family: Arial, Helvetica, sans-serif;
+            color: crimson;
+            text-align: center;
+            margin-left: 170px;
+} 
+
+h3.valogatott{
+		background-color: beige;
+		}
+        
+    
+
+
+
+    
+    
